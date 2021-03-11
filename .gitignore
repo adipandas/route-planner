@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+*.swp
+*.osm
+draw.cpp
+test.cpp
+build/
+bin/
+lib/
