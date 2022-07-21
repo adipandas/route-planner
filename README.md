@@ -26,7 +26,7 @@ git clone git@github.com:adipandas/route-planner.git --recurse-submodules
   * This library must be built in a place where CMake `find_package` will be able to find it
 
 ### Notes
-This repo does not have the cmake file corresponding to IO2D. To install it on linux, you can refer to the link [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md) and follow the following step.
+This repo does not have the cmake file corresponding to IO2D. To install it on linux, you can refer to the link [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md) and follow the step  below.
 
 * You can clone the repository at any location you like on your machine. Preferrably outside this repository.
 
